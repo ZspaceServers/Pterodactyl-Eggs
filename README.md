@@ -17,8 +17,6 @@ If you are reading this it looks like you are looking to add an egg to your serv
 # You must restart your daemon after importing an egg if you are using 0.7. This is not required on 1.X.
 
 
-## Please read the CONTRIBUTING.md before submitting PRs
-
 ## [Bots](/bots)
 
 [Discord](/bots/discord)
